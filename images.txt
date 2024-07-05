@@ -1,2 +1,2 @@
 xiaoyaliu/alist
-neosmemo/memos
+luodaoyi/kms-server:latest
